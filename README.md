@@ -80,3 +80,4 @@ python "00 - Fundamentos/desafio.py"
 💻 Estudante de Python e entusiasta de IA
 📈 Construindo portfólio para área de tecnologia
 
+
