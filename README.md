@@ -29,7 +29,7 @@ Além das operações de saque, depósito e extrato, o sistema agora inclui:
 
 - **Listagem de contas existentes**  
 
----
+----
 
 ## 🧠 O que aprendi neste desafio
 
@@ -43,7 +43,7 @@ Além das operações de saque, depósito e extrato, o sistema agora inclui:
 - Fluxo completo de Git:
   - Fork → Clone → Branch → Commit → Push → Pull Request
 
----
+----
 
 ## 🏗 Estrutura do Projeto
 trilha-python-dio/
